@@ -1,0 +1,1 @@
+#USAGE perl collatz.pl

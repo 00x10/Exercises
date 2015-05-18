@@ -1,0 +1,1 @@
+#USAGE perl grep.pl pattern
