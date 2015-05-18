@@ -1,5 +1,3 @@
-use strict;
-use warnings;
 use 5.010;
 
 #USAGE perl grep.pl pattern
@@ -31,7 +29,6 @@ sub SearchDir {
 				
 					#prints the line that matches the pattern
 					print @lines;
-					}
 			}
 			close $dh;
 			return;
